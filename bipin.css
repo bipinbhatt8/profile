@@ -1,0 +1,100 @@
+
+/* imges{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+body{
+    background-image: url('https://vikrambasnet.com.np/wp-content/uploads/2022/06/bg.jpg');
+}
+.container{
+    text-align: center;
+    padding: 5%;
+}
+.profile-pic{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    border-width: 4px;
+    border-style: dotted solid dashed;
+    border-color: white white;
+
+}
+hr{
+    width: 10%;
+    border-width: 2px;
+    border-style: groove;
+    border-color: white;
+    border-radius: 90%;
+   
+  /* fuckedup */
+} 
+.title{
+    font-family: khand;
+    color: white;
+   margin: 0px;
+    font-size: 65px;
+    text-transform: uppercase;
+    padding: 0px;
+    font-weight: 600;
+    line-height: 90%;
+    
+}
+.text-position{
+    color: white;
+    font-family: khand; 
+    font-size: 25px;
+    font-weight: 300;
+    margin: 0px;
+}
+.fa-brands{
+    color: white;
+    font-size: 33px;
+    /* padding: 10px; */
+}
+
+.botton{
+    color: white;
+    font-weight: 300;
+    font-family: khand;
+    font-size: 25px;
+    border: 2px solid white;
+    padding: 5px;
+    width: 15%;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#hire-me{
+    color: white;
+    font-family: khand;
+    font-size: 25px;
+    font-style: bold;
+    font-weight: 600;
+    margin-top: 0px;
+}
+li{
+   display: inline; 
+   padding: 10px;
+   
+}
+ul{
+    
+    padding: 10px;
+    margin: 0px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.botton:hover{
+    font-size: 27px;
+    width: 105px;
+    height: 53px;
+}
+.fa-brands:hover{
+    color: grey;
+}
+
